@@ -1,0 +1,25 @@
+{
+  "name": "myapps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tommasobatt22/webgl_course_awww.git"
+  },
+  "author": "tommasobatt22",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tommasobatt22/webgl_course_awww/issues"
+  },
+  "homepage": "https://github.com/tommasobatt22/webgl_course_awww#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "http-server": "^14.1.1"
+  }
+}
