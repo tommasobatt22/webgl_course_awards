@@ -7,7 +7,7 @@ The course is designed to provide a comprehensive overview of WebGL.
 
 To run it, simply:
 
-Install Node.js
+Install Node.js /n
 Navigate to the folder that contains this project
 Open a terminal
 Install the dependencies with npm install
